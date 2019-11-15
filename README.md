@@ -12,6 +12,10 @@ How install dependencies.
 
 ```sh
 pip install numpy libtiff
+
+or
+
+pip install --requirement ./requirements.txt
 ```
 
 ## Run
